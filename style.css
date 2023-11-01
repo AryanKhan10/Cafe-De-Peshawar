@@ -1,0 +1,83 @@
+* {
+  font-family: 'Wellfleet', monospace;
+  letter-spacing: 0.5px;
+}
+
+nav {
+  font-family: 'Wellfleet', monospace !important;
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+
+nav img {
+  width: 5rem;
+}
+
+.background-img {
+  height: 100vh;
+  background-image: url("../images/c1.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.background-img div {
+  color: white;
+  position: absolute;
+  top: 20rem;
+}
+
+#contact {
+  background-color: #333;
+  color: white;
+  height: 8rem;
+}
+
+footer {
+  background-color: #333;
+  color: white;
+  height: 8rem;
+}
+
+.sec-color {
+  background-color: #f7f4d6;
+}
+
+.sec-color li {
+  background-color: #f7f4d6;
+}
+
+.menu-category li, #contact li {
+  list-style: none;
+}
+
+.contact-us h1 {
+  font-size: 3rem;
+}
+
+.contact-form {
+  background-color: #eae6c0;
+  padding-bottom: 2rem;
+  -webkit-box-shadow: 5px 2px 12px 0px #6a724e59;
+          box-shadow: 5px 2px 12px 0px #6a724e59;
+}
+
+.contact-form h2 {
+  font-size: 1.2rem;
+}
+
+form {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.table th, .table td {
+  background-color: #ffc10794 !important;
+  border: 1px solid black;
+}
+
+.cafe-team div img {
+  -webkit-box-shadow: 3px 4px 9px 0px #342700c9;
+          box-shadow: 3px 4px 9px 0px #342700c9;
+}
+/*# sourceMappingURL=style.css.map */
